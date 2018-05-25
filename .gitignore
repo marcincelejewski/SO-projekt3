@@ -1,0 +1,15 @@
+*.opendb
+*.xml
+*.tlog
+*.log
+*.obj
+*.vcxproj
+*.filtres
+*.user
+*.db
+*.ilk
+*.sln
+*.codeanalysis
+*.idb
+*.pdb
+*.pch
